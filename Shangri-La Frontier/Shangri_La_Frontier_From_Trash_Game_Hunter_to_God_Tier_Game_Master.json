@@ -4,5 +4,12 @@
   "artist": "Ryousuke Fuji",
   "author": "Katarina",
   "cover": "https://mangadex.org/covers/29ab6984-7c1d-4d45-b925-25aa082b492e/d2f07704-852a-4965-9caa-fc022b04b6fe.jpg.512.jpg",
-  "chapters": {}
+  "chapters": {
+    "246": {
+      "title": "",
+      "last_updated": "1765071463",
+      "groups": {
+        "Senzuu": "/proxy/api/imgchest/chapter/9249kdnqmyn"
+      }
+    }
 }
