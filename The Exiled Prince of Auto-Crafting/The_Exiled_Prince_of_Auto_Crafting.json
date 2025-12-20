@@ -5,6 +5,13 @@
   "author": "Genkotsu Kumano",
   "cover": "https://mangadex.org/covers/082d6154-42ab-4d5c-9dfa-d4a6526b7aa8/a77b4ab9-1070-45ab-b1b0-34a7660a3742.jpg.512.jpg",
   "chapters": {
+    "048": {
+      "title": "",
+      "last_updated": "1765071464",
+      "groups": {
+        "Senzuu": "/proxy/api/imgchest/chapter/a846olqqw4x"
+      }
+    },
     "049": {
       "title": "",
       "last_updated": "1765071463",
@@ -12,11 +19,11 @@
         "Senzuu": "/proxy/api/imgchest/chapter/o24a6add3yl"
       }
     },
-    "048": {
+    "050": {
       "title": "",
-      "last_updated": "1765071464",
+      "last_updated": "1766250483",
       "groups": {
-        "Senzuu": "/proxy/api/imgchest/chapter/a846olqqw4x"
+        "Senzuu": "/proxy/api/imgchest/chapter/bp45ooo6n75"
       }
     }
   }
