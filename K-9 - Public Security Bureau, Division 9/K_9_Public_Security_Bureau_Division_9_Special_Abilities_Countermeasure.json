@@ -5,11 +5,25 @@
   "author": "Tetsuya Okuyama",
   "cover": "https://mangadex.org/covers/74340c82-fb7f-4a5e-8f1e-dd7651c88e9e/51a1ea94-a488-4a83-8edc-a6ca22c02a2c.jpg.512.jpg",
   "chapters": {
-	  "035": {
+    "035": {
       "title": "",
       "last_updated": "1765330925",
       "groups": {
         "Senzuu": "/proxy/api/imgchest/chapter/dl7pnvxrkyo"
+      }
+    },
+	"036": {
+      "title": "",
+      "last_updated": "1766636566",
+      "groups": {
+        "Senzuu": "/proxy/api/imgchest/chapter/6eyrn6l5l7p"
+      }
+    },
+	"037": {
+      "title": "",
+      "last_updated": "1766636566",
+      "groups": {
+        "Senzuu": "/proxy/api/imgchest/chapter/n87wnjmjq7x"
       }
     }
   }
